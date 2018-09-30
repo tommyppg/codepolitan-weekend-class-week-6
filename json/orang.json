@@ -1,0 +1,20 @@
+[
+  {
+    "nama": "Tommy",
+    "umur": 17,
+    "tanggal": "1994-11-12",
+    "gambar": "https://www.codepolitan.com/assets/img/codepolitan_logo.png"
+  },
+  {
+    "nama": "Handoko",
+    "umur": 24,
+    "tanggal": "1994-11-12",
+    "gambar": "https://www.codepolitan.com/assets/img/codepolitan_logo.png"
+  },
+  {
+    "nama": "Eko",
+    "umur": 50,
+    "tanggal": "1994-11-12",
+    "gambar":"https://www.codepolitan.com/assets/img/codepolitan_logo.png"
+  }
+]
